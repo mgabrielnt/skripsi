@@ -1,0 +1,4 @@
+# Satu baris per feed; baris diawali # = komentar
+https://www.cnbcindonesia.com/rss/
+https://www.kontan.co.id/rss
+https://www.bisnis.com/rss
